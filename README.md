@@ -1,4 +1,4 @@
-# suzuri-lollipop-illust-history
+# suzuri-lollipop-illust-history-chipuru
 
 このリポジトリはクリエイター「鈴莉」によるイラスト集です。
 
